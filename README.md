@@ -1,2 +1,2 @@
-# MIPT_Data_Mining_In_Action_2016
+# Data_Mining_In_Action_Solutions
 Solutions for Data Mining In Action MIPT course
